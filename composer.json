@@ -1,0 +1,12 @@
+{
+    "name": "mupsh/to_do_list",
+    "description": "creating a to do list using fatfree framework with php and sql",
+    "authors": [
+        {
+            "name": "Michael Upshur"
+        }
+    ],
+    "require": {
+        "bcosca/fatfree" : "3.8.0"
+    }
+}
